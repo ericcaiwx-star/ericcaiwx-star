@@ -1,8 +1,8 @@
 ## Eric Cai
 
-**Product & overseas sales · Shenzhen**
+**Cofounder & Executive Vice President · Shenzhen**
 
-I contribute to [OpenClaw](https://github.com/openclaw/openclaw) and [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — small, evidenced fixes on the surfaces operators actually hit: channels, first-run, Windows and Linux edges.
+I run POS terminal products and global sales. Nights, I contribute to [OpenClaw](https://github.com/openclaw/openclaw) and [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — small, evidenced fixes on the surfaces operators actually hit: channels, first-run, Windows and Linux edges.
 
 <p>
   <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged">
