@@ -25,10 +25,6 @@ I run POS terminal products and global sales. Nights, I contribute to [OpenClaw]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcaiwx-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ericcaiwx-star&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 ## OpenClaw
