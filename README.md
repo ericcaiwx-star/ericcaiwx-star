@@ -2,9 +2,12 @@
 
 **Cofounder & Executive Vice President · Shenzhen**
 
-I run POS terminal products and global sales. Nights, I contribute to [OpenClaw](https://github.com/openclaw/openclaw), [OpenClaw Enterprise](https://github.com/openclaw/openclaw-enterprise), and [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — small, evidenced fixes on the surfaces operators actually hit: channels, first-run, and macOS, Windows, and Linux edges.
+I run POS terminal products and global sales. Nights, I contribute to [OpenClaw Enterprise](https://github.com/openclaw/openclaw-enterprise), [OpenClaw](https://github.com/openclaw/openclaw), and [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — small, evidenced fixes on the surfaces operators actually hit: channels, first-run, and macOS, Windows, and Linux edges.
 
 <p>
+  <a href="https://github.com/openclaw/openclaw-enterprise/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged">
+    <img alt="OpenClaw Enterprise merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw-enterprise%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&label=OpenClaw%20Enterprise%20merged&color=2ea44f" />
+  </a>
   <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged">
     <img alt="OpenClaw merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&label=OpenClaw%20merged&color=2ea44f" />
   </a>
@@ -18,19 +21,18 @@ I run POS terminal products and global sales. Nights, I contribute to [OpenClaw]
 
 ---
 
+## OpenClaw Enterprise
+
+[openclaw/openclaw-enterprise](https://github.com/openclaw/openclaw-enterprise) — enterprise control plane for agent workloads.
+
+- [Merged pull requests](https://github.com/openclaw/openclaw-enterprise/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged)
+
 ## OpenClaw
 
 [openclaw/openclaw](https://github.com/openclaw/openclaw) — personal AI assistant you run on your own devices.
 
 - [Merged pull requests](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged)
 - [Reviews](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+reviewed-by%3Aericcaiwx-star)
-
-## OpenClaw Enterprise
-
-[openclaw/openclaw-enterprise](https://github.com/openclaw/openclaw-enterprise) — enterprise control plane for agent workloads.
-
-- [Merged contribution: document node DNS recovery in the quickstart](https://github.com/openclaw/openclaw-enterprise/pull/735)
-- [My pull requests](https://github.com/openclaw/openclaw-enterprise/pulls/ericcaiwx-star)
 
 ## DeepSeek Harness
 
