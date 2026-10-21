@@ -6,16 +6,16 @@ I run POS terminal products and global sales. Nights, I contribute to [OpenClaw 
 
 <p>
   <a href="https://github.com/openclaw/openclaw-enterprise/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged">
-    <img alt="OpenClaw Enterprise merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw-enterprise%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&label=OpenClaw%20Enterprise%20merged&color=2ea44f" />
+    <img height="40" alt="OpenClaw Enterprise merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw-enterprise%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&label=OpenClaw%20Enterprise%20merged&color=2ea44f" />
   </a>
   <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged">
-    <img alt="OpenClaw merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&label=OpenClaw%20merged&color=2ea44f" />
+    <img height="40" alt="OpenClaw merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&label=OpenClaw%20merged&color=2ea44f" />
   </a>
   <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+reviewed-by%3Aericcaiwx-star">
-    <img alt="OpenClaw reviews" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20reviewed-by%3Aericcaiwx-star&label=OpenClaw%20reviews&color=0969da" />
+    <img height="40" alt="OpenClaw reviews" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20reviewed-by%3Aericcaiwx-star&label=OpenClaw%20reviews&color=0969da" />
   </a>
   <a href="https://github.com/deepseek-ai/deepseek-harness/commits?author=ericcaiwx-star">
-    <img alt="DeepSeek Harness" src="https://img.shields.io/badge/DeepSeek%20Harness-contributor-6f42c1" />
+    <img height="40" alt="DeepSeek Harness" src="https://img.shields.io/badge/DeepSeek%20Harness-contributor-6f42c1" />
   </a>
 </p>
 
