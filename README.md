@@ -46,3 +46,11 @@ Landed a Win32 directory-picker fix: native UTF-16 path reads were truncating at
 
 - [Commits](https://github.com/deepseek-ai/deepseek-harness/commits?author=ericcaiwx-star)
 - [The path fix](https://github.com/deepseek-ai/deepseek-harness/commit/51c242749a606c6f001d0eb3894cbc26496e01e5)
+
+## Gnulib
+
+[coreutils/gnulib](https://github.com/coreutils/gnulib)
+
+Landed a small ACL-copying correctness fix: `qcopy_acl` now recognizes file descriptor `0` as valid in its XATTR path, avoiding an unnecessary fallback to filename-based copying.
+
+- [The file-descriptor fix](https://github.com/coreutils/gnulib/commit/a466eb2fd4ceebfebafe752696d912b6c7b9127c)
