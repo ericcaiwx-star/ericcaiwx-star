@@ -21,6 +21,10 @@ I run POS terminal products and global sales. Nights, I contribute to [OpenClaw 
     <td><a href="https://github.com/deepseek-ai/deepseek-harness/commits?author=ericcaiwx-star"><img width="170" height="30" alt="DeepSeek Harness" src="https://img.shields.io/badge/DeepSeek%20Harness-555555" /></a></td>
     <td align="right"><a href="https://github.com/deepseek-ai/deepseek-harness/commits?author=ericcaiwx-star"><img width="107" height="30" alt="DeepSeek Harness" src="https://img.shields.io/badge/contributor-6f42c1" /></a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/coreutils/gnulib/commit/a466eb2fd4ceebfebafe752696d912b6c7b9127c"><img width="68" height="30" alt="Gnulib" src="https://img.shields.io/badge/Gnulib-555555" /></a></td>
+    <td align="right"><a href="https://github.com/coreutils/gnulib/commit/a466eb2fd4ceebfebafe752696d912b6c7b9127c"><img width="107" height="30" alt="Gnulib contributor" src="https://img.shields.io/badge/contributor-6f42c1" /></a></td>
+  </tr>
 </table>
 
 ---
