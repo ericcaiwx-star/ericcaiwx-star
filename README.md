@@ -2,7 +2,7 @@
 
 **Cofounder & Executive Vice President · Shenzhen**
 
-I run POS terminal products and global sales. Nights, I contribute to [OpenClaw Enterprise](https://github.com/openclaw/openclaw-enterprise), [OpenClaw](https://github.com/openclaw/openclaw), and [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — small, evidenced fixes on the surfaces operators actually hit: channels, first-run, and macOS, Windows, and Linux edges.
+I run POS terminal products and global sales. Nights, I contribute to [OpenClaw Enterprise](https://github.com/openclaw/openclaw-enterprise), [OpenClaw](https://github.com/openclaw/openclaw), [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), and [GNU Gnulib](https://github.com/coreutils/gnulib) — small, evidenced fixes on the surfaces operators actually hit: channels, first-run, and macOS, Windows, and Linux edges.
 
 <table>
   <tr>
