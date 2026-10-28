@@ -13,7 +13,7 @@ I run POS terminal products and global sales. Nights, I contribute to [OpenClaw 
   <tr>
     <td align="center"><a href="https://github.com/openclaw/openclaw"><img width="30" height="30" alt="OpenClaw logo" src="https://avatars.githubusercontent.com/u/252820863?s=60&amp;v=4" /></a></td>
     <td><a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged"><img width="167" height="30" alt="OpenClaw merged" src="https://img.shields.io/badge/OpenClaw%20merged-555555" /></a></td>
-    <td align="right"><a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+reviewed-by%3Aericcaiwx-star"><img width="105" height="30" alt="OpenClaw reviews" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20reviewed-by%3Aericcaiwx-star&amp;label=reviews&amp;color=0969da" /></a> <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged"><img width="35" height="30" alt="OpenClaw merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&amp;label=&amp;color=2ea44f" /></a></td>
+    <td align="right"><a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged"><img width="35" height="30" alt="OpenClaw merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20author%3Aericcaiwx-star%20is%3Amerged&amp;label=&amp;color=2ea44f" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/deepseek-ai/deepseek-harness"><img width="30" height="30" alt="DeepSeek AI logo" src="https://avatars.githubusercontent.com/u/148330874?s=60&amp;v=4" /></a></td>
@@ -40,7 +40,6 @@ I run POS terminal products and global sales. Nights, I contribute to [OpenClaw 
 [openclaw/openclaw](https://github.com/openclaw/openclaw) — personal AI assistant you run on your own devices.
 
 - [Merged pull requests](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Aericcaiwx-star+is%3Amerged)
-- [Reviews](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+reviewed-by%3Aericcaiwx-star)
 
 ## DeepSeek Harness
 
